@@ -78,9 +78,9 @@
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: (ضع الرابط هنا)
-- 📧 Email: (ضع ايميلك هنا)
-- 🌐 Portfolio: (ضع موقعك إذا أنشأته)
+- 💼 LinkedIn: https://www.linkedin.com/in/raed-almoaili-790975204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email: Raid.S.Almoaili@gmail.com
+- 🌐 Portfolio: تحت العمل
 
 ---
 
